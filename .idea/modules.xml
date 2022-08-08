@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ultimo-Desagio-Dio.iml" filepath="$PROJECT_DIR$/.idea/Ultimo-Desagio-Dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-padroes-spring/lab-padroes-spring.iml" filepath="$PROJECT_DIR$/lab-padroes-spring/lab-padroes-spring.iml" />
+    </modules>
+  </component>
+</project>
